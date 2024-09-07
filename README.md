@@ -57,6 +57,12 @@
         <p>Beecrowd</p>
       </a>
     </td>
+    <td align="center">
+      <a href="https://vjudge.net/user/Sourabh_swe" target="blank">
+        <img src="https://img.shields.io/badge/Vjudge-Sourabh_swe-brightgreen" alt="Vjudge" height="30" />
+        <p>Vjudge</p>
+      </a>
+    </td>
   </tr>
 </table>
 
