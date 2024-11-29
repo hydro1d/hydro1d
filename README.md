@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools I know:</h2>
 <table align="center">
   <tr>
     <td align="center">
