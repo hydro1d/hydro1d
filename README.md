@@ -1,5 +1,5 @@
 <h1 align="center">Wait, before you go👀 I am Sourabh Barua</h1>
-<h3 align="center">A passionate Student of Software Engineering || Competitive Programmer.</h3>
+<h3 align="center">Undergraduate Software Engineer || Competitive Programmer.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile%20views&color=0e75b6&style=flat" alt="hydro1d" />
