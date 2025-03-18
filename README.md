@@ -1,5 +1,5 @@
 <h1 align="center">Wait, before you go👀 I am Sourabh Barua</h1>
-<h3 align="center">Undergraduate Software Engineer || Competitive Programmer.</h3>
+<h3 align="center">Undergraduate Software Engineer || Competitive Programmer || Data Scientist.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile%20views&color=0e75b6&style=flat" alt="hydro1d" />
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">Competitive Programming Profiles:</h2>
+<h2 align="center">Competitive Programming & Data Science Profiles:</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -40,12 +40,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerearth.com/sourabh_swe" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="40" width="40" />
-        <p>HackerEarth</p>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://judge.beecrowd.com/en/profile/945765" target="blank">
         <img src="https://th.bing.com/th/id/OIP.0f0Y7eOLloA2wPeEEZ5hMAHaHa?rs=1&pid=ImgDetMain" alt="Beecrowd" height="40" width="40" />
         <p>Beecrowd</p>
@@ -61,6 +55,12 @@
       <a href="https://atcoder.jp/users/Sourabh31" target="blank">
         <img src="https://d1q9av5b648rmv.cloudfront.net/v3/1024x1024/sticker/m/white/front/6242844/1614660290-967x954.png.webp?h=508214e01a4eb6c5b734533da4420fed45bffa88&printed=true" alt="AtCoder" height="40" width="40" />
         <p>AtCoder</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/sourabhbarua31" target="blank">
+        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" />
+        <p>Kaggle</p>
       </a>
     </td>
   </tr>
