@@ -13,8 +13,8 @@
   <a href="https://fb.com/sourabh.ananyo31" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
-  <a href="mailto:gghydroid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gghydroid@gmail.com-blue" alt="Email" />
+  <a href="mailto:sourabh31.swe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email" />
   </a>
 </p>
 
