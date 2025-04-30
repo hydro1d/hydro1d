@@ -1,4 +1,4 @@
-<h1 align="center">Wait, before you go👀 I am Sourabh Barua</h1>
+<h1 align="center"> Sourabh Barua</h1>
 <h3 align="center">Undergraduate Software Engineer || Competitive Programmer || Data Scientist.</h3>
 
 <p align="center">
