@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">Competitive Programming & Data Science Profiles:</h2>
+<h2 align="center">Competitive Programming & DS Profiles:</h2>
 <table align="center">
   <tr>
     <td align="center">
