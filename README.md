@@ -1,5 +1,5 @@
 <h1 align="center"> Sourabh Barua</h1>
-<h3 align="center">Undergraduate Software Engineer || Competitive Programmer || Data Scientist.</h3>
+<h3 align="center">Undergraduate Software Engineer || Competitive Programmer DIU || .</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile%20views&color=0e75b6&style=flat" alt="hydro1d" />
