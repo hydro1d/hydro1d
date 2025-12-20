@@ -1,114 +1,76 @@
-<h1 align="center"> Sourabh Barua</h1>
-<h3 align="center">Undergraduate Software Engineer || Competitive Programmer DIU || .</h3>
+<h1 align="center">Hi 👋, I'm Sourabh Barua</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile%20views&color=0e75b6&style=flat" alt="hydro1d" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineer;Frontend+Developer;Competitive+Programmer;Problem+Solver;Assistant+Instructor+@+Ostad" />
 </p>
 
-<h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/sourabh-barua-025417291" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/sourabh.ananyo31" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+  <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile+Views&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🧠 About Me
+
+💻 Undergraduate Software Engineer at **DIU**  
+🎨 **Frontend Developer** – building interactive & responsive web apps  
+⚔️ Competitive Programmer – **600+ problems solved**  
+🧑‍🏫 Teaching **Coding Interview & Databases**  
+🚀 Passionate about **clean code, scalable systems & creative UI/UX**
+
+> I believe in **learning by doing and building by solving**.
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,nodejs,mysql,git&perline=7" />
+</p>
+
+---
+
+## ⚡ Core Strengths
+
+- Frontend Development: HTML, CSS, Tailwind CSS, React  
+- Backend & Tools: Node.js, MySQL, Git  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Problem solving & Competitive Coding mindset  
+
+---
+
+## ⚔️ Competitive Programming Snapshot
+
+- 🧩 Solved **600+ problems**  
+- ⚡ Strong grip on **DSA & Algorithms**  
+- 🎯 Focused on **clean & optimized logic**  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hydro1d&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sourabhbarua31">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sourabh31.swe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
-<h2 align="center">Competitive Programming & DS Profiles:</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.codechef.com/users/sourabh31_swe" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
-        <p>CodeChef</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/sourabh31" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
-        <p>Codeforces</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.leetcode.com/sourabh1299" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-        <p>LeetCode</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://judge.beecrowd.com/en/profile/945765" target="blank">
-        <img src="https://th.bing.com/th/id/OIP.0f0Y7eOLloA2wPeEEZ5hMAHaHa?rs=1&pid=ImgDetMain" alt="Beecrowd" height="40" width="40" />
-        <p>Beecrowd</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vjudge.net/user/Sourabh_swe" target="blank">
-        <img src="https://img.shields.io/badge/Vjudge-Sourabh_swe-brightgreen" alt="Vjudge" height="30" />
-        <p>Vjudge</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://atcoder.jp/users/Sourabh31" target="blank">
-        <img src="https://d1q9av5b648rmv.cloudfront.net/v3/1024x1024/sticker/m/white/front/6242844/1614660290-967x954.png.webp?h=508214e01a4eb6c5b734533da4420fed45bffa88&printed=true" alt="AtCoder" height="40" width="40" />
-        <p>AtCoder</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/sourabhbarua31" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" />
-        <p>Kaggle</p>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<h2 align="center">Languages and Tools I know:</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-        <p>C</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-        <p>C++</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-        <p>Git</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-        <p>Java</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-        <p>Python</p>
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Activity
 
-<h2 align="center">GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hydro1d&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hydro1d&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hydro1d&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydro1d&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydro1d&theme=tokyonight" />
 </p>
