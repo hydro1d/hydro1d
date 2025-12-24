@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sourabh Barua</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Frontend+Developer;Competitive+Programmer;Problem+Solver;Assistant+Instructor+@+Ostad" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Frontend+Developer;Competitive+Programmer;Problem+Solver;Assistant+Instructor+@+Ostad" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile+Views&style=for-the-badge&color=blue" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=hydro1d&label=Profile+Views&style=for-the-badge&color=blue" 
+    alt="profile views"
+  />
 </p>
 
 ---
@@ -16,38 +22,35 @@
 🎨 **Frontend Developer** – building interactive & responsive web apps  
 ⚔️ Competitive Programmer – **600+ problems solved**  
 🧑‍🏫 Teaching **Coding Interview & Databases**  
-🚀 Passionate about **clean code, scalable systems & creative UI/UX**
+🚀 Passionate about **clean code, scalable systems & UI/UX**
 
-> I believe in **learning by doing and building by solving**.
+> _I believe in learning by doing and building by solving._
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,nodejs,mysql,git&perline=7" />
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,nodejs,mysql,git&perline=7" 
+    alt="skills"
+  />
 </p>
-
----
-
-## ⚡ Core Strengths
-
-- Frontend Development: HTML, CSS, Tailwind CSS, React  
-- Backend & Tools: Node.js, MySQL, Git  
-- Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOP)  
-- Problem solving & Competitive Coding mindset  
 
 ---
 
 ## ⚔️ Competitive Programming Snapshot
 
-- 🧩 Solved **600+ problems**  
-- ⚡ Strong grip on **DSA & Algorithms**  
-- 🎯 Focused on **clean & optimized logic**  
+- 🧩 Solved **600+ problems**
+- ⚡ Strong grip on **DSA & Algorithms**
+- 🎯 Focused on **clean & optimized logic**
 
+<!-- Trophy is OPTIONAL – comment out if GitHub blocks it -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hydro1d&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hydro1d&theme=onedark&no-frame=true&margin-w=10" 
+    alt="trophy"
+  />
 </p>
 
 ---
@@ -68,9 +71,15 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hydro1d&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hydro1d&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" 
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydro1d&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=hydro1d&theme=tokyonight&hide_border=true" 
+    alt="GitHub streak"
+  />
 </p>
