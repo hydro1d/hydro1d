@@ -18,11 +18,12 @@
 
 ## 🧠 About Me
 
-💻 Undergraduate Software Engineer at **DIU**  
-🎨 **Frontend Developer** – building interactive & responsive web apps  
-⚔️ Competitive Programmer – **600+ problems solved**  
-🧑‍🏫 Teaching **Coding Interview & Databases**  
-🚀 Passionate about **clean code, scalable systems & UI/UX**
+@ Teaching Assistant **Ostad Ltd** 
+@ Undergraduate Software Engineering student at **DIU**  
+@ **Frontend Developer** – building interactive & responsive web apps  
+@ Competitive Programmer – **600+ problems solved**
+@ Hackathon Finalist
+@ Passionate about **clean code, scalable systems & UI/UX**
 
 > _I believe in learning by doing and building by solving._
 
