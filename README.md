@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh Barua</h1>
+<h1 align="center"> Sourabh Barua</h1>
 
 <p align="center">
   <img 
