@@ -20,7 +20,7 @@
 
 @ Teaching Assistant **Ostad Ltd** 
 @ Undergraduate Software Engineering student at **DIU**  
-@ **Frontend Developer** – building interactive & responsive web apps  
+@ **MERN Stack Developer**  
 @ Competitive Programmer – **600+ problems solved**
 @ Hackathon Finalist
 @ Passionate about **clean code, scalable systems & UI/UX**
